@@ -51,7 +51,3 @@ The notebook provides various visualizations using `matplotlib` and `plotly`, in
 - Implement Graph Autoencoder (GAE) for link prediction.
 - Add node feature engineering using product categories or sentiment embeddings.
 - Support for scalable graph analysis with distributed tools.
-
-## 📄 License
-
-This project is released under the MIT License.
